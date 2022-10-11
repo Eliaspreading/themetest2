@@ -1,15 +1,3 @@
- {
-    "author" : "Elia", 
-    "name" : "themetest", 
-    "keyWords" : "keyword1,keyword2",
-    "version" : "1.0.0",
-    "dofusVersion" : "2.65", 
-    "description" : "danzayoyo", 
-    "url" : "https://raw.githubusercontent.com/Eliaspreading/themetest2/raw/main/themetest.zip",
-    "previewUrl" : "https://github.com/Eliaspreading/themetest2/raw/main/themetest.png", 
-    "creationDate" : "11/10/2022", 
-    "modificationDate" : "11/10/2022"
-    },
     { 
         "author" : "Salakiss", 
         "name" : "Argentic", 
