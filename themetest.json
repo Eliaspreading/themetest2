@@ -1,0 +1,12 @@
+ {
+    "author" : "Elia", 
+    "name" : "themetest", 
+    "keyWords" : "keyword1,keyword2",
+    "version" : "1.0.0",
+    "dofusVersion" : "2.65", 
+    "description" : "Description de mon thème", 
+    "url" : "https://github.com/Eliaspreading/themetest2/raw/main/themetest.zip",
+    "previewUrl" : "http://mywebsite.com/preview.jpg", 
+    "creationDate" : "JJ/MM/AAAA", 
+    "modificationDate" : "JJ/MM/AAAA"
+    } 
