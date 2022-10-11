@@ -1,4 +1,4 @@
- {
+{
     "author" : "Elia", 
     "name" : "themetest", 
     "keyWords" : "keyword1,keyword2",
@@ -10,7 +10,7 @@
     "creationDate" : "11/10/2022", 
     "modificationDate" : "11/10/2022"
     },
-    { 
+{ 
         "author" : "Salakiss", 
         "name" : "Argentic", 
         "keyWords" : "gris,grey,color,couleur", 
@@ -21,4 +21,4 @@
         "previewUrl" : "https://raw.githubusercontent.com/SalakissODV/themes-dofus/master/previews/Argentic.png", 
         "creationDate" : "02/09/2016", 
         "modificationDate" : "20/08/2022"  
-    },
+    }
